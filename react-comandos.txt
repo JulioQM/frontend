@@ -1,0 +1,17 @@
+video link:https://www.youtube.com/watch?v=fW-4toNg3jw
+frontend con react
+1-primero instalo el paquete react " npx create-react-app nombre"
+2-luego instalado el paquete digito "npm install" dentro del paquete creado en este caso la carpeta "nombre"
+3-eliminamos archivos no nesesarios como las paquetes "App.css" y "App.test.js" y "Logo.svg"
+4-limpiamos el codigo para poner el nuestro en el paquete App.js
+5-vamos agregar boostrap nos dirigimos al link getbootstrap.com y damos click en "getstarted"
+6-nos dirigimos a la carpeta "public" y en index.html ponemos el link del css copiado y le pegamos en la linea 27 o antes de la etiqueta title
+7-copiamos el bundle de la pagina de bootstrap y pegamos al final del body
+8-en la carpeta "src" creamos una carpeta "Components" y luego creo un archivo "nombre.js"
+-habla de los huts minuto 24:24 A 29:00
+-instalacion de cors para que me permita hacer peticiones de nuestro cliente frontend,
+-intalamos "npm install --save cors" en el backend
+-contrucción del formulario crear archivo nombre.js
+-el uso de rfc agiliza mucho
+
+
